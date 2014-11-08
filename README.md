@@ -1,4 +1,4 @@
 Hello-world
 ===========
 
-Just another repository
+This is new branch.
